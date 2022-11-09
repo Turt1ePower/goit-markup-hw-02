@@ -1,3 +1,39 @@
-p {
-  color: black;
+:root {
 }
+
+/* UTILITY */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.title {
+}
+
+.list {
+  list-style: none;
+}
+
+.btn {
+  font-family: inherit;
+}
+
+.address {
+  font-style: normal;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+/* HEADER */
