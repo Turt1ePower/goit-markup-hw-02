@@ -1,7 +1,7 @@
 :root {
 }
 
-/* UTILITY */
+/* ---------UTILITY--------- */
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -22,7 +22,7 @@ body {
   font-family: inherit;
 }
 
-.address {
+.footer-address {
   font-style: normal;
 }
 
@@ -36,4 +36,68 @@ body {
   white-space: nowrap;
   overflow: hidden;
 }
-/* HEADER */
+/* ---------HEADER--------- */
+
+.page-header {
+  background-color: #ffffff;
+}
+
+/* LOGO */
+
+.logo {
+  font-family: 'Raleway';
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.logo:visited {
+  color: #2196f3;
+}
+
+.logo-header {
+  color: #000000;
+}
+
+.logo-footer {
+  color: #ffffff;
+}
+
+/* ---------SECTIONS--------- */
+
+/* HERO */
+
+.hero {
+  background-color: #2f303a;
+}
+
+/* FEATURES */
+
+.features {
+  background-color: #ffffff;
+}
+
+/* OUR WORKS */
+
+.our-works {
+  background-color: #ffffff;
+}
+
+/* OUR TEAM */
+
+.team {
+  background-color: #f5f4fa;
+}
+
+/* PORTFOLIO */
+
+.portfolio {
+  background-color: #ffffff;
+}
+
+/* ---------FOOTER--------- */
+
+.page-footer {
+  background-color: #2f303a;
+}
